@@ -10,7 +10,7 @@
 -----
 
 
-# (ENGLISH) 👋 Hi, I'm @BitNers! 
+# 👋 Hi, I'm @BitNers! 
 
 - 👀 I'm interested in everything, always learning and traning to get new horizons.
   - But tecnically, I have more interest in Computer Networks & infrastructures and PHP (Laravel) and Python.
