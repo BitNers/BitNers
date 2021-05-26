@@ -6,7 +6,7 @@
 - 📱 Outra área que estou entusiasmado é Mobile e estou aprendendo a desenvolver **Flutter**.
 
   - 💻 Ultimamente estou estudando e trabalhando em monoprojetos (<i>bootcamp</i>) para desenvolver **muito** em pouco tempo.
-
+  - 🌐 Você pode checar meu site para mais informações/contatos: [Clique Aqui](https://bitners.github.io/portfolio/)
 -----
 
 
@@ -18,7 +18,7 @@
 - 📱 Other area that I'm interested too is Mobile. I'm learning to develop in **Flutter**.
 
   - 💻 Recently I'm programming in microprojects (<i>bootcamp</i>) to do **more** in less time.
-
+  - 🌐 My Portfolio Site isn't available in English, coming soon.
 
 <!---
 BitNers/BitNers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
