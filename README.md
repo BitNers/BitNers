@@ -21,7 +21,7 @@
 
 
   - 💻 For my studies I use textbooks and courses, always developing in microprojects (<i>bootcamp</i>) to do **more** in less time.
-  - 🌐 My Portfolio Site is still not available in English, coming soon. 👏
+  - 🌐 Visit my Website for more info and contacts: [Click Here](https://bitners.github.io/portfolio/global)
 
 <!---
 BitNers/BitNers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
