@@ -14,13 +14,13 @@
 # 👋 Hi, I'm @BitNers! 
 
 - 👀 I'm interested in everything, always learning and training to get new horizons.
-  - I'm sharped with  **Computer Networks & Infrastructures** and **Back-End Developer.**
-- 🌱 Nowadays I'm learning to develop small application by using popular frameworks such as: **Express**, **ASP.NET Core** e **Django**.
-- 📱 Other area that I'm interested too is Mobile. I'm develop in **Flutter** and **Java for Android**.
-- 🤖 Dev IoT for Smart House, Smart and Helper Devices.
+  - I'm sharped in **Computer Networks & Infrastructures** and **Back-End Developer.**
+- 🌱 Nowadays I'm learning to develop small applications by using popular frameworks such as **Express**, **ASP.NET Core** e **Django**.
+- 📱 Another area that I'm interested too is Mobile. I'm developing in **Flutter** and **Java for Android**.
+- 🤖 Dev IoT for Smart House, Smart, and Helper Devices.
 
 
-  - 💻 For my studies I use textbooks and courses, always developing in microprojects (<i>bootcamp</i>) to do **more** in less time.
+  - 💻 For my personal study, I always use textbooks and courses to develop microprojects (<i>boot camps</i>) to do **more** in less time.
   - 🌐 Visit my Website for more info and contacts: [Click Here](https://bitners.github.io/portfolio/global)
 
 <!---
