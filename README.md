@@ -2,7 +2,7 @@
 
 - 👀 Meus interesses são sempre amplos visando sempre aprimorar e expandir meus horizontes.
   - Tenho afinidade e interesse com **Redes e Infraestruturas** e em desenvolvimento **Back-End**.
-- 🌱 Atualmente estou estudando para aprimorar o desenvolvimento de pequenos aplicativos a partir de Frameworks comumente com os programadores como: **Express**, **ASP.NET Core** e **Django**.
+- 🌱 Atualmente estou estudando para aprimorar o desenvolvimento de pequenos aplicativos a partir de Frameworks comumente com os programadores como: **Express**, **.NET Core** e **Django**.
 - 📱 Também sou entusiasta por desenvolvimento Mobile com conhecimentos em **Flutter** e **Java for Android**.
 - 🤖 Dev IoT para Smart House, Dispositivos Inteligentes e Auxiliadores.
 
@@ -15,7 +15,7 @@
 
 - 👀 I'm interested in everything, always learning and training to get new horizons.
   - I'm sharped in **Computer Networks & Infrastructures** and **Back-End Developer.**
-- 🌱 Nowadays I'm learning to develop small applications by using popular frameworks such as **Express**, **ASP.NET Core** e **Django**.
+- 🌱 Nowadays I'm learning to develop small applications by using popular frameworks such as **Express**, **.NET Core** e **Django**.
 - 📱 Another area that I'm interested too is Mobile. I'm developing in **Flutter** and **Java for Android**.
 - 🤖 Dev IoT for Smart House, Smart, and Helper Devices.
 
